@@ -1,0 +1,81 @@
+body {
+  background-color: white;
+  color: black;
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  color: black;
+  text-align: left;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+font-style: italic;
+font-size: 40px;
+background-color: beige;
+border: 1px solid black;
+padding: 15px;
+margin-bottom: 10px;
+width: 170px;
+
+}
+
+h2{
+  color: black;
+  text-align: left;
+  text-transform: capitalize;
+  font-style: italic;
+}
+
+h3{
+  color: black;
+  text-align: left;
+  text-transform: capitalize;
+  font-style: italic;
+}
+
+h4{
+  color: black;
+  text-align: left;
+  text-transform: capitalize;
+  font-style: italic;
+}
+
+.europe {
+  color: white;
+  font-weight: bold;
+}
+
+.usa {
+  color: white;
+  font-style: italic;
+}
+
+.best{
+  color: white;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.ok{
+color: white;
+font-weight: lighter;
+font-style: oblique;
+}
+
+#firstList{
+  background-color: green;
+  width: 700px;
+}
+
+#firstList li {
+  display: inline-block;
+  margin: 10px;}
+
+#secondList{
+  background-color: blue;
+  width: 500px;
+}
+
+#secondList li {
+  display: inline-block;
+  margin: 10px;}
